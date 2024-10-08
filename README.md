@@ -12,3 +12,7 @@ To install and run the project, follow these steps:
 
 ## Wallet Address for PRESALE
 CAUVhF7BVGewGkZBRc7tBQWGsKuTuzrpvr7CXwuHfLQ2
+
+## PRESALE
+Min 0.01 SOL | Max 10 SOL
+1 SOL = 10,000 $GTTM
